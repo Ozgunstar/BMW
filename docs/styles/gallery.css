@@ -13,7 +13,7 @@
 #section
 {
     width: 100%;
-    height: 1440px;
+    height: 2120px;
     background-color: rgb(0, 255, 123); 
 }    
 .horizontal
@@ -55,8 +55,8 @@ h1
 }
 #block1
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -65,8 +65,8 @@ h1
 }
 #block2
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -75,8 +75,8 @@ h1
 }
 #block3
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -85,8 +85,8 @@ h1
 }
 #block4
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -95,8 +95,8 @@ h1
 }
 #block5
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -105,8 +105,8 @@ h1
 }
 #block6
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -115,8 +115,8 @@ h1
 }
 #block7
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -125,8 +125,8 @@ h1
 }
 #block8
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -135,8 +135,8 @@ h1
 }
 #block9
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -145,8 +145,8 @@ h1
 }
 #block10
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -155,8 +155,8 @@ h1
 }
 #block11
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -165,8 +165,8 @@ h1
 }
 #block12
 {
-    width:400px;
-    height:400px;
+    width:570px;
+    height:450px;
     background-color: white;
     float: left;
     border: 5px solid blue;
@@ -175,73 +175,73 @@ h1
 }
 #snimka1
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
 #snimka2
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
 #snimka3
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
 #snimka4
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
 #snimka5
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
 #snimka6
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
 #snimka7
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
 #snimka8
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
 #snimka9
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
 #snimka10
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
 #snimka11
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
 #snimka12
 {
-    width: 380px;
-    height: 380px;
+    width: 550px;
+    height: 430px;
     margin: 10px;
 }
