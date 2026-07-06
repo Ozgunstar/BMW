@@ -24,7 +24,7 @@ body
 } 
 .horizontal
 {
-    width: 12%;
+    width: 7%;
     height: 30px;
     margin: 0 auto;
     background-color: rgb(1, 177, 231);
@@ -70,9 +70,12 @@ h1
 }
 img.snimki
 {
-    width: 300px;
-    height: 250px;
+    width: 380px;
+    height: 270px;
     display:inline-block;
     margin-left:3rem;
 }
-
+.navigations
+{
+    font-size: 2rem;
+}
