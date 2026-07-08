@@ -1,0 +1,9 @@
+div.container>img
+{
+    width: 5rem;
+    height: auto;
+}
+div.card
+{
+    margin-left: 5rem;
+}
