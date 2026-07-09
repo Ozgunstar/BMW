@@ -7,3 +7,11 @@ div.card
 {
     margin-left: 5rem;
 }
+div.card:hover
+{
+    opacity: 100%;
+    -webkit-box-shadow: 0px 0px 9px 5px rgb(1, 255, 13, 0.51);
+    box-shadow: 0px 0px 9px 5px rgb(1, 255, 13, 0.51);
+    cursor: progress;
+    border: 1px solid rgb(217, 87, 22, 0.86) !important;
+}
